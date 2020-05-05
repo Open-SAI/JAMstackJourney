@@ -9,4 +9,10 @@ The Web is dead long life to the Web!
 * JAMstack sites are well suited to meet the demanding requirements of today’s mobile-first web
 * JAMstack isn’t: it’s not any one specific technology in and of itself; nor is it driven by a large company;  nor is there any standards body that controls or defines it
 * JAMstack is a movement, a community collection of best practices and workflows that result in high-speed websites that are a pleasure to work on
-* 
+* JavaScript is called out specifically as the language of the browser, but you can use as much or as little JavaScript as your project requires. Many JAMstack sites also use Python, Go, or Ruby for templating and logic 
+* Not everything about the JAMstack is a new idea, but it’s only very recently that we’ve had the technology required to make the approach possible
+* By nature, JAMstack sites are the following:
+  * Globally distributed and resilient to heavy traffic
+  * Centered around a developer friendly, Git-based workflow
+  * Designed modularly, consuming other services via APIs
+  * Prebuilt and optimized before being served
