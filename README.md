@@ -17,4 +17,9 @@ The Web is dead long life to the Web!
   * Designed modularly, consuming other services via APIs
   * Prebuilt and optimized before being served
 * Shouldn’t new HTML be produced only when content or data changes, not every time it is requested?
+* No more dreaded delays waiting for the CDN’s cache to expire we can now build highly distributed sites right on the edge of the network and remove the need for any type of frontend servers to pro‐
+cess each request
+* live in a Git repository right alongside the code and templates
+* no content database is required
+* Complex staging environments are no longer needed as previewing and testing changes use the branching system built into the heart of Git 
 
