@@ -24,4 +24,7 @@ cess each request
 * Complex staging environments are no longer needed as previewing and testing changes use the branching system built into the heart of Git 
 * The JAMstack has spawned a clever new generation of authoring tools that look and function like a normal Content Management System (CMS) but actually check changes into version control behind the scenes
 * NO requiring a database that you need to manage and version separately
+* In the JAMstack, THE personalized experiences are done using JavaScript to make API calls that send and receive data. Many of the APIs used are third-party services
+  * EXAMPLE: a JAMstack application will often create a secure ID token stored in the browser. (This type of token is called a JavaScript Web Token, or JWT.) The identity is then passed with each API call
+  * JAMstack sites can do much more than serve simple content, and many are rich applications with all the features you’d expect, like ecommerce, membership, and rich personalization
 
