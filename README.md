@@ -22,4 +22,6 @@ cess each request
 * live in a Git repository right alongside the code and templates
 * no content database is required
 * Complex staging environments are no longer needed as previewing and testing changes use the branching system built into the heart of Git 
+* The JAMstack has spawned a clever new generation of authoring tools that look and function like a normal Content Management System (CMS) but actually check changes into version control behind the scenes
+* NO requiring a database that you need to manage and version separately
 
