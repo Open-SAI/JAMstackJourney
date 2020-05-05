@@ -16,3 +16,5 @@ The Web is dead long life to the Web!
   * Centered around a developer friendly, Git-based workflow
   * Designed modularly, consuming other services via APIs
   * Prebuilt and optimized before being served
+* Shouldn’t new HTML be produced only when content or data changes, not every time it is requested?
+
